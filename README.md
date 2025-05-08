@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliqureshi96&label=Profile%20views&color=0e75b6&style=flat" alt="maliqureshi96" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **MERN Stack, Web Socket**
+- 🌱 I’m currently learning **Full Stack, Web Socket**
 
 - 👨‍💻 All of my projects are available at [https://github.com/maliqureshi96](https://github.com/maliqureshi96)
 
-- 💬 Ask me about **node,express,mongoDb,react,redux,ui,ux**
+- 💬 Ask me about **Asp.net core, node,express,mongoDb,react**
 
 - 📫 How to reach me **ali.qureshiqureshi789@gmail.com**
 
